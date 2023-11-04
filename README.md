@@ -7,3 +7,4 @@ Ujian Tengah Semester Machine Learning Semester 7 IBI Kesatuan Bogor Teknologi I
 > 
 > Ryan Roshandy Sachio 2023100055
 
+![ibik](https://en.ibik.ac.id/wp-content/uploads/2023/03/logo-ibik-web.png)
